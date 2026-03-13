@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shilpa%20Banerjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=160&section=header&text=Shilpa%20Banerjee&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=17&descColor=ccbbff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Crafting+intelligent+AI+solutions+%F0%9F%A4%96;Full+Stack+%7C+Backend+%7C+AI+Engineer;Open+to+Opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B6DE8&center=true&vCenter=true&width=550&lines=Building+scalable+backend+systems;Crafting+AI-powered+applications;Node.js+%7C+React+%7C+Python+%7C+Next.js;Open+to+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpa-banerjee-430a1324a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shilpabanerj23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shilpabanerjee1)
-[![Profile Views](https://komarev.com/ghpvc/?username=shilpabanerjee1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shilpabanerjee1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpa-banerjee-430a1324a)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shilpabanerj23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shilpabanerjee1)
+[![Profile Views](https://komarev.com/ghpvc/?username=shilpabanerjee1&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/shilpabanerjee1)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-```javascript
+```js
 const shilpa = {
-  education : "B.Tech CSE @ UEM Kolkata (IoT · Cybersecurity · Blockchain) | GPA: 8.2",
+  education : "B.Tech CSE @ UEM Kolkata | GPA: 8.2 | IoT · Cybersecurity · Blockchain",
   experience: ["Backend Intern @ RIDE EVEE", "AI Intern @ Ai Wallah"],
-  currentFocus: ["DSA", "System Design", "Spring Boot", "Java"],
-  achievements: ["2x Best Student Contributor Award", "200+ DSA Problems Solved"],
-  location  : "Kolkata, West Bengal, India",
-  openTo    : "Full Stack | Backend | AI/ML roles",
+  focus     : ["DSA", "System Design", "Java Spring Boot"],
+  highlights: ["2× Best Student Contributor Award", "200+ DSA Problems"],
+  location  : "Kolkata, West Bengal 🇮🇳",
+  openTo    : "Full Stack | Backend | AI/ML Roles",
 };
 ```
 
@@ -32,131 +32,97 @@ const shilpa = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**Backend & Infra**
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / ML**
 
-![RL](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere_AI-39594D?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_AI-39594D?style=flat-square&logo=cohere&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔧 Backend Developer Intern</h3>
-      <b>RIDE EVEE</b> &nbsp;|&nbsp; <i>Feb 2024 – Apr 2024</i>
-      <br/><br/>
-      ✅ WebSocket live tracking for <b>50+ concurrent drivers</b><br/>
-      ✅ Reduced data latency by <b>35%</b><br/>
-      ✅ Apache Kafka for <b>10k+ daily notifications</b><br/>
-      ✅ Achieved <b>99.9% uptime</b> + horizontal scaling<br/>
-      <br/>
-      <code>Node.js</code> <code>MongoDB</code> <code>Kafka</code> <code>WebSocket</code>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI Developer Intern</h3>
-      <b>Ai Wallah</b> &nbsp;|&nbsp; <i>May 2025 – Jun 2025</i>
-      <br/><br/>
-      ✅ Built <b>DQN (Reinforcement Learning)</b> models<br/>
-      ✅ <b>20% improvement</b> over Random Forest baseline<br/>
-      ✅ Path optimization with deep Q-networks<br/>
-      <br/><br/>
-      <code>Python</code> <code>Deep Q-Network</code> <code>RL</code> <code>Random Forest</code>
-    </td>
-  </tr>
-</table>
+### 🔧 Backend Developer Intern — [RIDE EVEE](https://rideevee.com) `Feb 2024 – Apr 2024`
+
+- Implemented **WebSocket-based live location tracking** for 50+ concurrent drivers — reduced latency by **35%**
+- Integrated **Apache Kafka** to handle **10,000+ daily event-driven notifications** — achieved **99.9% uptime**
+- Enabled horizontal scaling for the notification system
+> `Node.js` · `MongoDB` · `Apache Kafka` · `WebSocket`
+
+---
+
+### 🤖 AI Developer Intern — [Ai Wallah](https://aiwallah.com) `May 2025 – Jun 2025`
+
+- Engineered **Reinforcement Learning (DQN)** models for path optimization tasks
+- Achieved **20% improvement** in decision-making efficiency over Random Forest baseline
+> `Python` · `Deep Q-Network` · `Reinforcement Learning` · `Random Forest`
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📚 [LearnSync](https://github.com/shilpabanerjee1/LearnSync) — Adaptive Learning Platform
 
-<a href="https://github.com/shilpabanerjee1/LearnSync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shilpabanerjee1&repo=LearnSync&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shilpabanerjee1/landscale">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shilpabanerjee1&repo=landscale&theme=tokyonight&hide_border=true" />
-</a>
+> Built for neurodivergent users — powered by AI-driven assessment
 
-</div>
+| What | Result |
+|------|--------|
+| 🧠 Cohere AI assessment engine | **92% diagnostic accuracy** |
+| ⚡ Redis caching on backend | **40% faster** response time |
 
-<br/>
+`Node.js` · `React.js` · `MongoDB` · `Express.js` · `Cohere AI` · `Redis` · `Redux Toolkit` · `Tailwind CSS` · `Framer Motion`
 
-<details>
-<summary><b>📚 LearnSync — Adaptive Learning Platform</b></summary>
-<br/>
+---
 
-> An intelligent assessment platform designed for neurodivergent users
+### 🏠 [Landscale](https://github.com/shilpabanerjee1/landscale) — Geospatial Real Estate Platform
 
-| Metric | Result |
-|--------|--------|
-| 🧠 AI Diagnostic Accuracy | **92%** using Cohere AI |
-| ⚡ Backend Speed Improvement | **40% faster** with Redis caching |
-| 👥 Target Users | Neurodivergent learners |
+> Smart property discovery with built-in fraud prevention
 
-**Stack:** `Node.js` `React.js` `MongoDB` `Express.js` `Cohere AI` `Redis` `Redux Toolkit` `Framer Motion` `Tailwind CSS`
+| What | Result |
+|------|--------|
+| 🗺️ PostGIS geospatial queries | **50% faster** search on 1000+ listings |
+| 🛡️ Automated validation pipeline | **25% reduction** in fraudulent listings |
 
-</details>
-
-<br/>
-
-<details>
-<summary><b>🏠 Landscale — Geospatial Real Estate Platform</b></summary>
-<br/>
-
-> Smart property discovery with fraud prevention
-
-| Metric | Result |
-|--------|--------|
-| 🗺️ Search Speed Improvement | **50% faster** with PostGIS |
-| 🛡️ Fraud Reduction | **25% fewer** fraudulent listings |
-| 📊 Dataset Scale | 1,000+ property listings |
-
-**Stack:** `Next.js 15` `TypeScript` `PostgreSQL` `PostGIS`
-
-</details>
+`Next.js 15` · `TypeScript` · `PostgreSQL` · `PostGIS`
 
 ---
 
@@ -164,17 +130,13 @@ const shilpa = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shilpabanerjee1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shilpabanerjee1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpabanerjee1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpabanerjee1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpabanerjee1&theme=tokyonight&hide_border=true" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shilpabanerjee1&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpabanerjee1&theme=tokyonight&hide_border=true" width="55%"/>
 
 </div>
 
@@ -182,23 +144,19 @@ const shilpa = {
 
 ## 🏅 Achievements & Certifications
 
-<div align="center">
-
-| 🏆 Achievement | 📜 Certification |
+| 🏆 | |
 |---|---|
-| 🥇 Two-time **Best Student Contributor Award** | Cybersecurity for Everyone — *Coursera* |
-| 💻 Solved **200+ DSA Problems** across platforms | Network Fundamentals and Access — *LinkedIn Learning* |
-
-</div>
+| 🥇 Two-time **Best Student Contributor Award** | |
+| 💻 **200+ DSA problems** solved — LeetCode & GFG | |
+| 📜 Cybersecurity for Everyone — **Coursera** | |
+| 📜 Network Fundamentals and Access — **LinkedIn Learning** | |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
 
 *"Code it. Ship it. Improve it."*
-
-⭐ **If you find my work interesting, feel free to star a repo!**
 
 </div>
